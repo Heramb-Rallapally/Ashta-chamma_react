@@ -17,6 +17,7 @@
     height: 140px;
     object-fit: cover;
     border: 2px solid #ccc;
+    border-color: black;
     border-radius: 5px;
   }
   

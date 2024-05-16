@@ -6,7 +6,7 @@ import SoundEffect from './SoundEffect.jsx';
 function App() {
   return (
     <div className="container">
-      <h1 className='Heading_app'>Hello!</h1>
+      <h1 className='Heading_app'>Random Gavullu</h1>
       <SoundEffect />
       <Images_front />
     </div>

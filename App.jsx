@@ -8,7 +8,6 @@ function App() {
     <div className="container">
       <h1 className='Heading_app'>Random Gavullu</h1>
       <SoundEffect />
-      <Images_front />
     </div>
   );
 }

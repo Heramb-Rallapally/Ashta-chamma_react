@@ -14,7 +14,7 @@
   
   .image-container img {
     width: 150px;
-    height: 140px;
+    height: 120px;
     object-fit: cover;
     border: 2px solid #ccc;
     border-color: black;

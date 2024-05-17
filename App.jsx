@@ -11,9 +11,9 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className='Heading_app'>Random Gavullu</h1>
+      <h1 className='Heading_app'>PLAY</h1>
       {imagesVisible && <Images_front />} {}
-      <button onClick={handleButtonClick}>Show Random Images</button>
+      <button onClick={handleButtonClick} className='Apnabutton'>LET'S ROLL</button>
     </div>
   );
 }

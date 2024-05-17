@@ -1,5 +1,5 @@
 import React from 'react';
-import gavullu from './gavullu.jpg';
+import gavullu from '../assets/gavullu.jpg';
 function Images_front() {
     return (
         <div>

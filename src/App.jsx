@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Images_front from './Total.jsx';
+import Images_front from './components/Total.jsx';
 import './App.css'; 
 
 function App() {

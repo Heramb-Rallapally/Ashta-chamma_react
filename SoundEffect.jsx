@@ -1,10 +1,10 @@
 import React, { useRef } from 'react';
-import Total from "./Total.jsx";
+import Images_front from './Total.jsx';
 
 function Finalize() {
 return (
   <div>
-    <Total/>
+    <Images_front/>
   </div>
 )
 }
